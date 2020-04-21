@@ -1,0 +1,67 @@
+body 
+{
+    background-image: url("contact.jpg");
+     background-size: cover; 
+     background-repeat: no-repeat;
+}
+h3
+{
+    font-family: 'Sofia';font-size: 22px;
+}
+h1
+{
+    font-family: 'Aclonica';font-size: 22px;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey ;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #d4d22c;
+
+  }
+      .facebook
+      {
+        float: center;
+        margin-top: 270px;
+        margin-left: 325px;
+        margin-bottom: 100px;
+      }
+      .whatsapp 
+      {
+        margin-left: 100px;
+        margin-bottom: 100px;
+        display: inline-block;
+      }
+      .instagram
+      {
+         margin-bottom: 100px;
+         margin-left: 100px;
+      }	
+      .linkedin
+      {
+         margin-bottom: 100px;
+         margin-left: 100px;
+      }	
+      .github
+      {
+         margin-bottom: 100px;
+         margin-left: 100px;
+      }	
